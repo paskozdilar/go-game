@@ -3,7 +3,6 @@ package main
 import (
 	"image"
 	"image/color"
-	_ "image/color"
 )
 
 func main() {
